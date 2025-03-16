@@ -1,5 +1,4 @@
 import streamlit as st
-import sqlite3
 import streamlit_authenticator as stauth
 from datetime import datetime
 import yaml
